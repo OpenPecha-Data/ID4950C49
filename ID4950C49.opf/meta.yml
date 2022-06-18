@@ -1,0 +1,36 @@
+id: ID4950C49
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:11:28.113113'
+last_modified: '2022-06-19T01:11:28.113127'
+parser: null
+source_metadata:
+  title: Hagiography of Ngor chen dKon mchog lhun grub (1497–1557)
+  author: འཇམ་མགོན་ཨ་མེས་ཞབས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-05-22);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:བསམ་གྲུབ། (Dharamsala) (sdr), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བསམ་གྲུབ།
+  text_witnesses: https://sakyaresearch.org/sources/3101
+  bases:
+    32ea:
+      title: Hagiography of Ngor chen dKon mchog lhun grub (1497–1557)
+      order: 1
+      base_file: 32ea.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
